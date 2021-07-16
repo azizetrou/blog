@@ -1,0 +1,29 @@
+/* nav{
+margin: 2px;
+box-shadow: 11px 12px 10px 10px grey;
+max-height: 300px;
+}
+nav ul{
+background:white;
+display: flex;
+flex-wrap: wrap;
+margin: auto;
+}
+nav ul a{
+margin: 6px;
+padding: 5px;
+font-size: 18px;
+text-decoration: none;
+background:gray;
+color:black;
+}
+li{
+    text-decoration: none;
+}
+nav ul a:hover{
+ background: #1f1e1e;
+ color: white;
+}
+.container-fluid{
+    direction: rtl !important;
+} */

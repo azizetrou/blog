@@ -1,0 +1,30 @@
+body{
+  background-color: #dcdce4 !important;
+}
+h1 , h2 , h3 ,h4{
+font-family:Arial,sans-serif;
+}
+header{
+   background-color: #dcdce4;
+   margin: 52px auto; 
+   display:block;
+   text-align: center;
+}
+
+.text{
+display: flex; 
+justify-content: center ;
+text-align:center;
+}
+header .text p{
+  color: #4d4b4b;
+}
+header .text p, span {
+ margin: 4px;
+ font-size: 24px;
+
+}
+.text span{
+  background-color: #000000;
+  color: white;
+}
